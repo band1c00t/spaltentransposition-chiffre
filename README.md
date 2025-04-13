@@ -12,5 +12,5 @@ The plaintext is written into a grid row-wise and then read out column-wise usin
 ### How to run
 
 ```bash
-python3 spaltentransposition.py
+python3 spaltentranspo.py
 ```
